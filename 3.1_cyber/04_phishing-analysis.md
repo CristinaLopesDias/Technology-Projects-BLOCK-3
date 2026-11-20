@@ -30,14 +30,15 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 
 ### Questions
 
-1.  Who appears to be the sender?
-2.  Does the email create urgency or pressure?
-3.  Are there spelling or grammar mistakes?
+1.  Who appears to be the sender?   Security Team support@secure-verification-update.com
+2.  Does the email create urgency or pressure? yes
+3.  Are there spelling or grammar mistakes? it is correct
 4.  Does the link match the organisation domain?
-
+no, it didn't
 ### Reflection
 
 Explain why attackers use phishing emails.
+because it is easier to deceive people, and they will think it is real.
 
 ------------------------------------------------------------------------
 
@@ -47,13 +48,15 @@ Hover over the link in the email (or copy link) and inspect the URL.
 
 ### Screenshot
 
-(Add screenshot)
+(Add screenshot)<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/c67cf7ff-1398-4bff-8062-f20ce7ddf56d" />
+
 
 ### Questions
 
-1.  Does the displayed link match the actual URL?
-2.  Are there unusual domain names?
+1.  Does the displayed link match the actual URL? no, it doesn't
+2.  Are there unusual domain names? no, it is not, that domain name is common 
 
 ### Reflection
 
 Explain why users should always inspect links before clicking them.
+Nowadays the hackers are getting smarter and the falsificate pages are getting so identical that make s anyone to be fished.
