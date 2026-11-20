@@ -69,7 +69,7 @@ Run:
 
 ### Questions
 
-1.  Which ports are open? 4096, 128
+1.  Which ports are open? 41775, 53, 111, 5353, 40726, 631, 22, 5201
 2.  Which services appear to be listening? 127.0.0.1:631, 0.0.0.0:22
 3.  Why might open ports represent a security risk?
    Open ports can represent a security risk because they allow external devices to communicate with services running on a computer. If a port is open and the service is vulnerable or poorly secured, attackers could exploit it to gain unauthorised access.
