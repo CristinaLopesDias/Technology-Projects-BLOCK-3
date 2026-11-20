@@ -8,16 +8,23 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+(Add screenshot here)<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3ddb8a59-5531-49e1-a2f0-6522a4103c26" />
+
 
 ### Questions
 
 1.  What does the tool say about the password?
-2.  Why is this password weak?
+
+ It is based on a dictionary word
+ 
+3.  Why is this password weak?
+    because it is easy to find out
+    
 
 ### Reflection
 
 Explain why weak passwords are dangerous.
+Becouse anyone can find it out and access our data, computer etc..
 
 ------------------------------------------------------------------------
 
@@ -29,16 +36,21 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+(Add screenshot here)<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/cd6720bb-fc70-4463-9911-cc073d7af2ef" />
+
 
 ### Questions
 
 1.  What result did the tool return?
-2.  What characteristics make this password stronger?
+2.  is is showing "OK"
+3.  What characteristics make this password stronger?
+   it is long and with lots of characters
 
 ### Reflection
 
 Describe at least three characteristics of strong passwords.
+Capital letters and lower case leters, and characters
+
 
 ------------------------------------------------------------------------
 
@@ -53,10 +65,12 @@ Evaluate the following passwords:
 
 ### Questions
 
-1.  Which passwords are weak?
-2.  Which password is strongest?
-3.  Why?
+1.  Which passwords are weak? 123456, P@ssword1, qwerty
+2.  Which password is strongest? correcthorsebatterystaple
+3.  Why? the weak ones are 123456, P@ssword1, qwerty because they ar simple words, and the last one correcthorsebatterystaple it is dificult to guess becouse it is 3 words together 
+
 
 ### Reflection
 
 Explain what you learned about password strength.
+I learnt that to have a strong password we must mix letters , numbers and charaters
